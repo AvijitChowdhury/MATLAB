@@ -1,0 +1,5 @@
+X = rand(4)
+max(max(X))
+min(min(X))
+size(X)
+round(X)
